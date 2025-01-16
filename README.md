@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @LuccasAps
 - 👀 I’m interested in ... Technology
-- 🌱 I’m currently learning ... C/C++/JAVA/HTML/CSS/MySQL
+- 🌱 I’m currently learning ... C/JAVA/MySQL
