@@ -1,5 +1,9 @@
 # Olá! Eu sou o Luccas Asaphe 👋
 
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Luccas Asaphe" width="200" style="border-radius: 50%;">
+</p>
+
 ## Sobre mim
 
 - 🎓 **Estudante de Tecnologia**<br>
