@@ -22,6 +22,7 @@
 
 ## Contato
 
+- 📧 **E-mail**: [luccasasahe@gmail.com](mailto:luccasasahe@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/luccas-asaphe-pena-salomão-521837280)
 - [Instagram](https://www.instagram.com/luccas__aps)
 
