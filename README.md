@@ -1,7 +1,7 @@
 # Olá! Eu sou o Luccas Asaphe 👋
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Luccas Asaphe" width="200" style="border-radius: 50%;">
+  <img src="[https://via.placeholder.com/150](https://avatars.githubusercontent.com/u/167210535?s=96&v=4)" alt="Luccas Asaphe" width="200" style="border-radius: 50%;">
 </p>
 
 ## Sobre mim
