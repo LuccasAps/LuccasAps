@@ -19,6 +19,7 @@
 - [**Loja Básica**](https://github.com/LuccasAps/Loja-Basica): Sistema básico de loja desenvolvido em Java.
 - [**Bank**](https://github.com/LuccasAps/Bank-): Projeto de sistema bancário.
 - [**Estudo Lista**](https://github.com/LuccasAps/Estudo-Lista): Estudo da estrutura de dados Lista.
+- [**Chess System**](https://github.com/LuccasAps/Chess-system-Java): Jogo de Xadrez **COMPLETO** feito em JAVA utilizando os conceitos de Programação Orientada a Objeto.
 
 ## Contato
 
