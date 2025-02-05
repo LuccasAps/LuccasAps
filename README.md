@@ -17,7 +17,7 @@
 ## Projetos
 
 - [**Loja Básica**](https://github.com/LuccasAps/Loja-Basica): Sistema básico de loja desenvolvido em Java.
-- [**Bank**](https://github.com/LuccasAps/Bank): Projeto de sistema bancário.
+- [**Bank**](https://github.com/LuccasAps/Bank-): Projeto de sistema bancário.
 - [**Estudo Lista**](https://github.com/LuccasAps/Estudo-Lista): Estudo da estrutura de dados Lista.
 
 ## Contato
