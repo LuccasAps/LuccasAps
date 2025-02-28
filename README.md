@@ -17,13 +17,14 @@
 ## Projetos
 
 ### 🔥 Projetos Recentes
-- [**API de Gestão de Usuários**](https://github.com/LuccasAps/API-Gestao-Usuarios) - API REST desenvolvida com Spring Boot, JPA e MySQL.
+- [**Projeto-Web-service-com-Spring-boot-e-hibernate**](https://github.com/LuccasAps/API-Gestao-Usuarios) - Projeto Web service completo com springboot e hibernate para integração com banco de dados.
 - [**Chess System**](https://github.com/LuccasAps/Chess-system-Java) - Jogo de Xadrez **COMPLETO** feito em JAVA utilizando conceitos de Programação Orientada a Objeto.
   
 ### 📌 Outros Projetos Destacados
 - [**Loja Básica**](https://github.com/LuccasAps/Loja-Basica) - Sistema básico de loja desenvolvido em Java.
 - [**Bank**](https://github.com/LuccasAps/Bank-) - Projeto de sistema bancário.
-- [**Estudo Lista**](https://github.com/LuccasAps/Estudo-Lista) - Estudo da estrutura de dados Lista.
+- [**Expressoes-lambda-e-prog-funcional**](https://github.com/LuccasAps/Expressoes-lambda-e-prog-funcional) - Estudo de expressoes lambda e programação funcional.
+- [**JDBC-DAO-demo**](https://github.com/LuccasAps/JDBC-DAO-demo) - Estudo de integração com banco de dados utilizando a biblioteca padrão do Java para integração 
 
 ## Contato
 
