@@ -10,16 +10,20 @@
   Apaixonado por desenvolvimento de software e sempre em busca de novos conhecimentos.
 
 - 🌱 **Atualmente aprendendo**<br>
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## Projetos
 
-- [**Loja Básica**](https://github.com/LuccasAps/Loja-Basica): Sistema básico de loja desenvolvido em Java.
-- [**Bank**](https://github.com/LuccasAps/Bank-): Projeto de sistema bancário.
-- [**Estudo Lista**](https://github.com/LuccasAps/Estudo-Lista): Estudo da estrutura de dados Lista.
-- [**Chess System**](https://github.com/LuccasAps/Chess-system-Java): Jogo de Xadrez **COMPLETO** feito em JAVA utilizando os conceitos de Programação Orientada a Objeto.
+### 🔥 Projetos Recentes
+- [**API de Gestão de Usuários**](https://github.com/LuccasAps/API-Gestao-Usuarios) - API REST desenvolvida com Spring Boot, JPA e MySQL.
+- [**Chess System**](https://github.com/LuccasAps/Chess-system-Java) - Jogo de Xadrez **COMPLETO** feito em JAVA utilizando conceitos de Programação Orientada a Objeto.
+  
+### 📌 Outros Projetos Destacados
+- [**Loja Básica**](https://github.com/LuccasAps/Loja-Basica) - Sistema básico de loja desenvolvido em Java.
+- [**Bank**](https://github.com/LuccasAps/Bank-) - Projeto de sistema bancário.
+- [**Estudo Lista**](https://github.com/LuccasAps/Estudo-Lista) - Estudo da estrutura de dados Lista.
 
 ## Contato
 
