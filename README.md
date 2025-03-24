@@ -10,22 +10,25 @@
   Apaixonado por desenvolvimento de software e sempre em busca de novos conhecimentos.
 
 - 🌱 **Atualmente aprendendo**<br>
-  ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![JavaFX](https://img.shields.io/badge/-JavaFX-4479A1?style=flat-square&logo=java&logoColor=white)
 
 ## Projetos
 
 ### 🔥 Projetos Recentes
-- [**Projeto-Web-service-com-Spring-boot-e-hibernate**](https://github.com/LuccasAps/Projeto-Web-service-com-Spring-boot-e-hibernate) - Projeto Web service completo com springboot e hibernate para integração com banco de dados.
-- [**Projeto-spring-boot-mongodb**](https://github.com/LuccasAps/workshop-spring-boot-mongodb) - Jogo de Xadrez **COMPLETO** feito em JAVA utilizando conceitos de Programação Orientada a Objeto.
+- [**Projeto-Web-service-com-Spring-boot-e-hibernate**](https://github.com/LuccasAps/Projeto-Web-service-com-Spring-boot-e-hibernate) - Projeto Web service completo com Spring Boot e Hibernate para integração com banco de dados.
+- [**Projeto-spring-boot-mongodb**](https://github.com/LuccasAps/workshop-spring-boot-mongodb) - Projeto Spring Boot com MongoDB.
 - [**Projeto-javafx-jdbc**](https://github.com/LuccasAps/workshop-javafx-jdbc) - Projeto Software com operações CRUD integrado com banco de dados relacional.
-  
+
 ### 📌 Outros Projetos Destacados
 - [**Loja Básica**](https://github.com/LuccasAps/Loja-Basica) - Sistema básico de loja desenvolvido em Java.
 - [**Bank**](https://github.com/LuccasAps/Bank-) - Projeto de sistema bancário.
-- [**Expressoes-lambda-e-prog-funcional**](https://github.com/LuccasAps/Expressoes-lambda-e-prog-funcional) - Estudo de expressoes lambda e programação funcional.
-- [**JDBC-DAO-demo**](https://github.com/LuccasAps/JDBC-DAO-demo) - Estudo de integração com banco de dados utilizando a biblioteca padrão do Java para integração 
+- [**Expressoes-lambda-e-prog-funcional**](https://github.com/LuccasAps/Expressoes-lambda-e-prog-funcional) - Estudo de expressões lambda e programação funcional.
+- [**JDBC-DAO-demo**](https://github.com/LuccasAps/JDBC-DAO-demo) - Estudo de integração com banco de dados utilizando a biblioteca padrão do Java para integração.
 
 ## Contato
 
