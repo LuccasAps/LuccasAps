@@ -18,7 +18,8 @@
 
 ### 🔥 Projetos Recentes
 - [**Projeto-Web-service-com-Spring-boot-e-hibernate**](https://github.com/LuccasAps/Projeto-Web-service-com-Spring-boot-e-hibernate) - Projeto Web service completo com springboot e hibernate para integração com banco de dados.
-- [**Chess System**](https://github.com/LuccasAps/Chess-system-Java) - Jogo de Xadrez **COMPLETO** feito em JAVA utilizando conceitos de Programação Orientada a Objeto.
+- [**Projeto-spring-boot-mongodb**](https://github.com/LuccasAps/workshop-spring-boot-mongodb) - Jogo de Xadrez **COMPLETO** feito em JAVA utilizando conceitos de Programação Orientada a Objeto.
+- [**Projeto-javafx-jdbc**](https://github.com/LuccasAps/workshop-javafx-jdbc) - Projeto Software com operações CRUD integrado com banco de dados relacional.
   
 ### 📌 Outros Projetos Destacados
 - [**Loja Básica**](https://github.com/LuccasAps/Loja-Basica) - Sistema básico de loja desenvolvido em Java.
