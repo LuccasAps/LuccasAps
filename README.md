@@ -18,10 +18,12 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
   ![JavaFX](https://img.shields.io/badge/-JavaFX-4479A1?style=flat-square&logo=java&logoColor=white)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## Projetos
 
 ### 🔥 Projetos Recentes
+- [**Library-Api**](https://github.com/LuccasAps/Library-Api) - API REST para gerenciamento de biblioteca, construída com Spring Boot, utilizando tecnologias como spring security, autenticação OAuth2 e Docker.
 - [**Projeto-Web-service-com-Spring-boot-e-hibernate**](https://github.com/LuccasAps/Projeto-Web-service-com-Spring-boot-e-hibernate) - Projeto Web service completo com Spring Boot e Hibernate para integração com banco de dados.
 - [**Projeto-spring-boot-mongodb**](https://github.com/LuccasAps/workshop-spring-boot-mongodb) - Projeto Spring Boot com MongoDB.
 - [**Projeto-javafx-jdbc**](https://github.com/LuccasAps/workshop-javafx-jdbc) - Projeto Software com operações CRUD integrado com banco de dados relacional.
