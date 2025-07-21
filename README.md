@@ -13,6 +13,7 @@
 Busco oportunidades como desenvolvedor júnior para aplicar meus conhecimentos em Java, Spring Boot e AWS, contribuir em projetos reais e evoluir como profissional de tecnologia.
 
 - 🌱 **Stack principal**<br>
+
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white) 
