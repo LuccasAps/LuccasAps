@@ -23,7 +23,7 @@
 ## Projetos
 
 ### 🔥 Projetos Recentes
-- [**Library-Api**](https://github.com/LuccasAps/Library-Api) - API REST para gerenciamento de biblioteca, construída com Spring Boot, utilizando tecnologias como spring security, autenticação OAuth2 e Docker.
+- [**Library-Api**](https://github.com/LuccasAps/Library-Api) - API REST para gerenciamento de biblioteca, construída com Spring Boot, utilizando tecnologias como spring security, autenticação OAuth2 e Docker e deploy da aplicação na AWS.
 - [**Projeto-Web-service-com-Spring-boot-e-hibernate**](https://github.com/LuccasAps/Projeto-Web-service-com-Spring-boot-e-hibernate) - Projeto Web service completo com Spring Boot e Hibernate para integração com banco de dados.
 - [**Projeto-spring-boot-mongodb**](https://github.com/LuccasAps/workshop-spring-boot-mongodb) - Projeto Spring Boot com MongoDB.
 - [**Projeto-javafx-jdbc**](https://github.com/LuccasAps/workshop-javafx-jdbc) - Projeto Software com operações CRUD integrado com banco de dados relacional.
